@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "c8ba24f4150e2b37b68e3c069b6bcd12b9c63851",
-      "last_modfied_date": 1540326026
+      "current_sha": "d35ff9917acd38e5ed0a81bcefcde53edf63bc0f",
+      "last_modfied_date": 1540326066
     },
     "features": {
       "2pac/new-feature": {
@@ -11,6 +11,19 @@
         "namespace": "dcdr",
         "scope": "2pac",
         "value": 0.1,
+        "comment": "some new feature",
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "hey",
+          "now"
+        ]
+      },
+      "2pac/newish": {
+        "feature_type": "boolean",
+        "key": "newish",
+        "namespace": "dcdr",
+        "scope": "2pac",
+        "value": true,
         "comment": "some new feature",
         "updated_by": "danielboromisa",
         "id_list": [
