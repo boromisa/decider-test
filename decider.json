@@ -1,6 +1,23 @@
 {
   "dcdr": {
-    "info": {},
-    "features": {}
+    "info": {
+      "current_sha": "c8ba24f4150e2b37b68e3c069b6bcd12b9c63851",
+      "last_modfied_date": 1540326026
+    },
+    "features": {
+      "2pac/new-feature": {
+        "feature_type": "percentile",
+        "key": "new-feature",
+        "namespace": "dcdr",
+        "scope": "2pac",
+        "value": 0.1,
+        "comment": "some new feature",
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "hey",
+          "now"
+        ]
+      }
+    }
   }
 }
