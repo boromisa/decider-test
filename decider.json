@@ -1,32 +1,7 @@
 {
   "dcdr": {
-    "info": {
-      "current_sha": "83323f16d69262d4adf043ecb6f3d8d3da922851",
-      "last_modfied_date": 1540418688
-    },
+    "info": {},
     "features": {
-      "2pac/new-feature": {
-        "feature_type": "percentile",
-        "key": "new-feature",
-        "namespace": "dcdr",
-        "scope": "2pac",
-        "value": 0.1,
-        "comment": "some new feature",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hey",
-          "now"
-        ]
-      },
-      "2pac/newish": {
-        "feature_type": "boolean",
-        "key": "newish",
-        "namespace": "dcdr",
-        "scope": "2pac",
-        "value": false,
-        "comment": "some new feature",
-        "updated_by": "danielboromisa"
-      },
       "biggie/hotness": {
         "feature_type": "boolean",
         "key": "hotness",
