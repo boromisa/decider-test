@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "0146f0b822268740ff759014cf4209ea174adad2",
-      "last_modfied_date": 1540408207
+      "current_sha": "6fa98caca847f11cab27394b538b734e835a3f00",
+      "last_modfied_date": 1540409447
     },
     "features": {
       "2pac/new-feature": {
@@ -23,7 +23,7 @@
         "key": "newish",
         "namespace": "dcdr",
         "scope": "2pac",
-        "value": true,
+        "value": false,
         "comment": "some new feature",
         "updated_by": "danielboromisa",
         "id_list": [
