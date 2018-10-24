@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "023e37448ae2dac1685a9dc8f66463ddc9b4f678",
-      "last_modfied_date": 1540416750
+      "current_sha": "a3c55d1e43447ba7d4ed592467a3260204b8ec36",
+      "last_modfied_date": 1540417065
     },
     "features": {
       "2pac/new-feature": {
@@ -28,7 +28,8 @@
         "updated_by": "danielboromisa",
         "id_list": [
           "hey",
-          ""
+          " now",
+          " fool"
         ]
       }
     }
