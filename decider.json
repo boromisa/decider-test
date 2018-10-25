@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "9a49f22374e1d2483a574a462069087291ca9590",
-      "last_modfied_date": 1540502174
+      "current_sha": "de602f3cd72c91cb95b90f670df69d6aa210a79b",
+      "last_modfied_date": 1540502282
     },
     "features": {
       "2pac/newish": {
@@ -25,15 +25,7 @@
         "scope": "2pac",
         "value": 0.2,
         "comment": "90's hip hop the shizzle",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hello",
-          "fools",
-          "testid1",
-          "testid2",
-          "testid3",
-          "testid4"
-        ]
+        "updated_by": "danielboromisa"
       },
       "biggie/havoc": {
         "feature_type": "boolean",
