@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "0d8dcbb85ee5a51b088da2ea4bfd23c338441c2a",
-      "last_modfied_date": 1540501874
+      "current_sha": "9a49f22374e1d2483a574a462069087291ca9590",
+      "last_modfied_date": 1540502174
     },
     "features": {
       "2pac/newish": {
@@ -28,7 +28,11 @@
         "updated_by": "danielboromisa",
         "id_list": [
           "hello",
-          "fools"
+          "fools",
+          "testid1",
+          "testid2",
+          "testid3",
+          "testid4"
         ]
       },
       "biggie/havoc": {
