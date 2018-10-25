@@ -1,7 +1,23 @@
 {
   "dcdr": {
-    "info": {},
+    "info": {
+      "current_sha": "8bf3d65711250976b551b35d4072941db46f425c",
+      "last_modfied_date": 1540419399
+    },
     "features": {
+      "biggie/havoc": {
+        "feature_type": "boolean",
+        "key": "havoc",
+        "namespace": "dcdr",
+        "scope": "biggie",
+        "value": true,
+        "comment": "90's hip hop the shizzle",
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "hello",
+          "fools"
+        ]
+      },
       "biggie/hotness": {
         "feature_type": "boolean",
         "key": "hotness",
