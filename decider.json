@@ -1,23 +1,7 @@
 {
   "dcdr": {
-    "info": {
-      "current_sha": "9f5e4f864f7889c446f91da285aa9518d6a89c19",
-      "last_modfied_date": 1541013257
-    },
+    "info": {},
     "features": {
-      "2pac/newish": {
-        "feature_type": "boolean",
-        "key": "newish",
-        "namespace": "dcdr",
-        "scope": "2pac",
-        "value": true,
-        "comment": "90's hip hop the shizzle",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hello",
-          "fools"
-        ]
-      },
       "2pac/percent": {
         "feature_type": "percentile",
         "key": "percent",
@@ -31,32 +15,6 @@
           "hello44",
           "hello45",
           "hello46"
-        ]
-      },
-      "biggie/havoc": {
-        "feature_type": "boolean",
-        "key": "havoc",
-        "namespace": "dcdr",
-        "scope": "biggie",
-        "value": true,
-        "comment": "90's hip hop the shizzle",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hello",
-          "fools"
-        ]
-      },
-      "biggie/hotness": {
-        "feature_type": "boolean",
-        "key": "hotness",
-        "namespace": "dcdr",
-        "scope": "biggie",
-        "value": true,
-        "comment": "90's hip hop the shizzle",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hello",
-          "fools"
         ]
       }
     }
