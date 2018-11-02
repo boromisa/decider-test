@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "4576f53754d797b4c2b1e32087b8d6ae62448c50",
-      "last_modfied_date": 1541184866
+      "current_sha": "443e55aa87e86a73ebc7f69a2f74baec9bdfa218",
+      "last_modfied_date": 1541188870
     },
     "features": {
       "2pac/newish": {
@@ -19,7 +19,7 @@
         "key": "percent",
         "namespace": "dcdr",
         "scope": "2pac",
-        "value": 0.1,
+        "value": 0.8,
         "comment": "90's hip hop the shizzle",
         "updated_by": "danielboromisa",
         "id_list": [
