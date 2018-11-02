@@ -1,13 +1,29 @@
 {
   "dcdr": {
-    "info": {},
+    "info": {
+      "current_sha": "eed53be31e027b791cb0e9b4f488abbf136515c7",
+      "last_modfied_date": 1541013298
+    },
     "features": {
+      "2pac/newish": {
+        "feature_type": "boolean",
+        "key": "newish",
+        "namespace": "dcdr",
+        "scope": "2pac",
+        "value": true,
+        "comment": "90's hip hop the shizzle",
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "hello",
+          "fools"
+        ]
+      },
       "2pac/percent": {
         "feature_type": "percentile",
         "key": "percent",
         "namespace": "dcdr",
         "scope": "2pac",
-        "value": 0.7,
+        "value": 0.1,
         "comment": "90's hip hop the shizzle",
         "updated_by": "danielboromisa",
         "id_list": [
@@ -15,6 +31,32 @@
           "hello44",
           "hello45",
           "hello46"
+        ]
+      },
+      "biggie/havoc": {
+        "feature_type": "boolean",
+        "key": "havoc",
+        "namespace": "dcdr",
+        "scope": "biggie",
+        "value": true,
+        "comment": "90's hip hop the shizzle",
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "hello",
+          "fools"
+        ]
+      },
+      "biggie/hotness": {
+        "feature_type": "boolean",
+        "key": "hotness",
+        "namespace": "dcdr",
+        "scope": "biggie",
+        "value": true,
+        "comment": "90's hip hop the shizzle",
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "hello",
+          "fools"
         ]
       }
     }
