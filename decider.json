@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "05025791976442f9d9f2a9f26768a98561ff35ff",
-      "last_modfied_date": 1541189071
+      "current_sha": "67f215bbdb71a9c59edecf2224db6125bd2fe35f",
+      "last_modfied_date": 1541189115
     },
     "features": {
       "2pac/newish": {
@@ -54,6 +54,15 @@
           "hello",
           "fools"
         ]
+      },
+      "user-groups/beta/new-feature": {
+        "feature_type": "percentile",
+        "key": "new-feature",
+        "namespace": "dcdr",
+        "scope": "user-groups/beta",
+        "value": 0.1,
+        "comment": "some new feature",
+        "updated_by": "danielboromisa"
       }
     }
   }
