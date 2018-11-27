@@ -1,10 +1,19 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "360c4fc248eee90e65f9ced672d5df9e343f328d",
-      "last_modfied_date": 1543336884
+      "current_sha": "d0c1a89357badfc0601a47c7108da3e43077baf2",
+      "last_modfied_date": 1543336906
     },
     "features": {
+      "user-groups/beta/new-boolean-feature": {
+        "feature_type": "boolean",
+        "key": "new-boolean-feature",
+        "namespace": "dcdr",
+        "scope": "user-groups/beta",
+        "value": true,
+        "comment": "some new boolean feature",
+        "updated_by": "danielboromisa"
+      },
       "user-groups/beta/new-feature": {
         "feature_type": "percentile",
         "key": "new-feature",
