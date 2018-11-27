@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "9456f9c1a0ca04ebbd49cdb41ba457ffbc829b07",
-      "last_modfied_date": 1543337111
+      "current_sha": "b6c7b999da5b7ddfcee1cfade81de7cea09b8af8",
+      "last_modfied_date": 1543337137
     },
     "features": {
       "user-groups/beta/new-boolean-feature": {
@@ -30,7 +30,11 @@
         "scope": "user-groups/beta2",
         "value": true,
         "comment": "some new boolean feature",
-        "updated_by": "danielboromisa"
+        "updated_by": "danielboromisa",
+        "id_list": [
+          "userID1",
+          "userID2"
+        ]
       }
     }
   }
