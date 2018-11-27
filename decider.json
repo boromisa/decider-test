@@ -1,8 +1,8 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "56f711f45df5a1191a1f4ca9069b2d36ab9ef102",
-      "last_modfied_date": 1543336838
+      "current_sha": "abb28b486104f73f91e80bf7ff1c779a9943b073",
+      "last_modfied_date": 1543336868
     },
     "features": {
       "2pac/percent": {
@@ -18,19 +18,6 @@
           "hello44",
           "hello45",
           "hello46"
-        ]
-      },
-      "biggie/hotness": {
-        "feature_type": "boolean",
-        "key": "hotness",
-        "namespace": "dcdr",
-        "scope": "biggie",
-        "value": true,
-        "comment": "90's hip hop the shizzle",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hello",
-          "fools"
         ]
       },
       "user-groups/beta/new-feature": {
