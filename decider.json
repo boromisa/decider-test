@@ -1,25 +1,10 @@
 {
   "dcdr": {
     "info": {
-      "current_sha": "abb28b486104f73f91e80bf7ff1c779a9943b073",
-      "last_modfied_date": 1543336868
+      "current_sha": "360c4fc248eee90e65f9ced672d5df9e343f328d",
+      "last_modfied_date": 1543336884
     },
     "features": {
-      "2pac/percent": {
-        "feature_type": "percentile",
-        "key": "percent",
-        "namespace": "dcdr",
-        "scope": "2pac",
-        "value": 1,
-        "comment": "90's hip hop the shizzle",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "hello",
-          "hello44",
-          "hello45",
-          "hello46"
-        ]
-      },
       "user-groups/beta/new-feature": {
         "feature_type": "percentile",
         "key": "new-feature",
