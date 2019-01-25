@@ -1,43 +1,17 @@
 {
   "dcdr": {
-    "info": {
-      "current_sha": "64155d1da4e628b3e52918390dad913ecf7cddcf",
-      "last_modfied_date": 1548285797
-    },
+    "info": {},
     "features": {
-      "user-groups/beta/new-boolean-feature": {
+      "iamd/ldap-cache": {
         "feature_type": "boolean",
-        "key": "new-boolean-feature",
+        "key": "ldap-cache",
         "namespace": "dcdr",
-        "scope": "user-groups/beta",
+        "scope": "iamd",
         "value": true,
-        "comment": "some new boolean feature",
+        "comment": "inverted ldap cache",
         "updated_by": "danielboromisa",
         "id_list": [
-          "userID1",
-          "userID2"
-        ]
-      },
-      "user-groups/beta/new-feature": {
-        "feature_type": "percentile",
-        "key": "new-feature",
-        "namespace": "dcdr",
-        "scope": "user-groups/beta",
-        "value": 0.1,
-        "comment": "some new feature",
-        "updated_by": "danielboromisa"
-      },
-      "user-groups/beta2/new-boolean-feature": {
-        "feature_type": "boolean",
-        "key": "new-boolean-feature",
-        "namespace": "dcdr",
-        "scope": "user-groups/beta2",
-        "value": false,
-        "comment": "some new boolean feature",
-        "updated_by": "danielboromisa",
-        "id_list": [
-          "userID1",
-          "userID2"
+          "1234"
         ]
       }
     }
